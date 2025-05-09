@@ -1,7 +1,7 @@
 # Ola! Eu sou Phelipy com Ph 😉
 
 ## Um pouco sobre mim ✨
-Meu nome é Phelipy e tenho 17 anos. Sou um estudante do Instituto Federal de Educação Ciência e Tecnologia do Rio grande do Norte(IFRN) e estou cursando Técnico em Informática Integrado ao Ensino Médio(1/4).
+Meu nome é Phelipy e tenho 19 anos. Sou um estudante do Instituto Federal de Educação Ciência e Tecnologia do Rio grande do Norte(IFRN) e estou cursando Técnico em Informática Integrado ao Ensino Médio(1/4).
 Um dia quero poder trabalhar com algo na área da informática e estou estudando para poder trabalhar com algo que gosto.
 
 ## Cursos Livres 🏫
